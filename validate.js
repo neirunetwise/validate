@@ -1,11 +1,7 @@
-
 /**************************************************************
 
 	Script		: Validate
-	Version		: 2.1
-	Authors		: Samuel Birch
 	Desc		: Form validation
-	Licence		: Open Source MIT Licence
 
 **************************************************************/
 
